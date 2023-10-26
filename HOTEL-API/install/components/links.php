@@ -1,0 +1,2 @@
+<li class="lnk_forum"><a href="https://www.prestashop.com/forums/" target="_blank" rel="noopener noreferrer">Foro</a></li>
+<li class="lnk_forum"><a href="https://www.prestashop.com/support" target="_blank" rel="noopener noreferrer">Soporte</a></li>
